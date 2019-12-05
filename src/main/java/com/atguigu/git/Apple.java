@@ -1,7 +1,11 @@
 package com.atguigu.git;
 
 public class Apple {
-     public static void main(String[] args) {
+
+
+
+	public static void main(String[] args) {
 		System.out.println("ahaha");
+		System.out.println("ohuo");
 	}
 }
